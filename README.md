@@ -8,5 +8,5 @@ The TibiaX Server is a free and open-source MMORPG server emulator written in C+
 
   ### Getting Started
 
-+* [Compiling](https://github.com/otland/forgottenserver/wiki/Compiling).
-+* [Scripting Reference](https://github.com/otland/forgottenserver/wiki/Script-Interface).
+* [Compiling](https://github.com/otland/forgottenserver/wiki/Compiling).
+* [Scripting Reference](https://github.com/otland/forgottenserver/wiki/Script-Interface).
